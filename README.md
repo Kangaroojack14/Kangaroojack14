@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kangaroojack14
 - 👀 I’m interested in trying to get a bit better.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning C++, html, css, and javascript.
 - 💞️ I’m looking to collaborate on nothing yet, I'm still a newbie.
 - 📫 How to reach me ...
 
